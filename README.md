@@ -2,7 +2,7 @@
 
 Data Engineer
 
-## 💫 Liitle Bit More About Me
+## 💫 A Little Bit About Me
 <p>🌱 I'm currently learning web3</p>
 <p>💬 Ask me about data</p>
 <p>⚡ Fun Fact: I love dogs</p>
