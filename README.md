@@ -26,11 +26,16 @@ Data Engineer
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=bthng">
 </p>
 
 ## 📊 Github Status
 
+<p><img src="https://metrics.lecoq.io/bthng"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bthng"><p>
+
 <p><img src="https://visitcount.itsvg.in/api?id=bthng&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+ -->
